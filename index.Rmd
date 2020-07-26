@@ -1,0 +1,16 @@
+---
+title: "About Me"
+author: "Tai"
+date: "7/23/2020"
+output: html_document
+---
+
+# Welcome To My Website
+## Here are some information about me
+
+Name: Taifur Chowdhury
+Born Location: Penang, Malaysia
+From: Bangladesh
+Interest: Electronic Music, Djing, Guitar, Travel
+Work Area: Financials, Print Publishing, Healthcare, Legal Industry
+School: University of Arkansas (BBA) - Finance
